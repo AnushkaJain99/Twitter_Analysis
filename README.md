@@ -22,9 +22,9 @@ An interactive Twitter analytics dashboard built to analyze tweets, retweets, li
 
 
 ## 📸 Dashboard Preview
-(https://github.com/AnushkaJain99/Twitter_Analysis/blob/main/Dashboard_ss(1).png)
 
-(https://github.com/AnushkaJain99/Twitter_Analysis/blob/main/Dashboard_ss(2).png)
+![tweet_overview](https://github.com/AnushkaJain99/Twitter_Analysis/blob/main/Dashboard_ss(1).png)
+![tweet2_overview](https://github.com/AnushkaJain99/Twitter_Analysis/blob/main/Dashboard_ss(2).png)
 
 
 ## 📌 Key Insights
